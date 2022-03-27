@@ -1,0 +1,15 @@
+.headerPart{
+    height: 110px;
+    background: #7068b891;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.headerPart h1,
+.headerPart p{
+    margin: 0;
+    padding: 10px;
+    color: rgb(112, 5, 5);
+}
+.headerPart p{
+    font-size: 18px;
+}
