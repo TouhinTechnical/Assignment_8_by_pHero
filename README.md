@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Rokomari Book Collection
+Live site link: [Live site Link](https://rokomari-books-technical.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

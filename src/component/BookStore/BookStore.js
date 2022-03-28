@@ -11,7 +11,7 @@ const BookStore = () => {
         .then(data => setProducts(data))
     }, []);
     const handlerAddToCart = (product) => {
-        // console.log(product);
+        console.log(product);
         setCart([...cart, product]);
     }
     return (
