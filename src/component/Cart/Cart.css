@@ -1,0 +1,32 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+    background: rgba(245, 124, 124, 0.357);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-shadow: -1px 11px 10px 10px rgba(252, 248, 248, 0.6), 0 0 15px 3px rgba(61, 60, 60, 0.5);
+}
+.btn-cart{
+    background: transparent;
+    border: 1px solid #fc9090;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    text-transform: capitalize;
+    padding: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.btnCart2{
+    color: #da0df5;
+    margin-top: 10px;
+}
+.btn-cart:hover{
+    background: #fc9090;
+}
