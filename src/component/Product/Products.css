@@ -1,6 +1,6 @@
 .product{
     width: 300px;
-    height: 425px;
+    height: 470px;
     border: 1px solid #95a0a7;
     border-radius: 8px;
     -webkit-border-radius: 8px;
@@ -28,7 +28,7 @@
 }
 .product-info p{
     margin-bottom: 0;
-    margin-top: 5px;
+    margin-top: 4px;
 }
 .btnCart{
     width: 100%;
@@ -42,7 +42,17 @@
     -moz-border-radius: 0 0 8px 8px;
     -ms-border-radius: 0 0 8px 8px;
     -o-border-radius: 0 0 8px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #5a91e4;
 }
 .btnCart:hover{
     background: teal;
+}
+.btnCart p{
+    margin-right: 5px;
+}
+.iconStyle{
+    color: #5a91e4;
 }
